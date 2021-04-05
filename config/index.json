@@ -1,0 +1,10 @@
+{
+    "firebase" : {
+        "apiKey": "AIzaSyB48VO9ib0Va5F_6dYs8BnjYldwNxbfuBQ",
+        "authDomain": "multikart-react.firebaseapp.com",
+        "projectId": "multikart-react",
+        "storageBucket": "multikart-react.appspot.com",
+        "messagingSenderId": "298873485216",
+        "appId": "1:298873485216:web:e719b33e1427c8cfde56c5"
+    }
+}
